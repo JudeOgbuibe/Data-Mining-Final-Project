@@ -1,0 +1,71 @@
+,0,1,2,3
+0,"(('gender - Male', 'age - [60-70)', 'race - Caucasian', 'metformin - Steady'), ('readmitted - NO',))",0.623703703704,1,1.07667311571
+1,"(('insulin - Steady', 'race - Unknown'), ('readmitted - NO',))",0.738419618529,2,1.27470230922
+2,"(('gender - Male', 'metformin - Steady', 'glipizide - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.613053613054,3,1.05828831823
+3,"(('metformin - Steady', 'gender - Female'), ('readmitted - NO',))",0.603909169302,4,1.0425026548
+4,"(('glyburide - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.606343283582,5,1.04670456252
+5,"(('metformin - Steady', 'pioglitazone - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.617475728155,6,1.06592202701
+6,"(('gender - Male', 'insulin - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.657620041754,7,1.13522144426
+7,"(('gender - Male', 'insulin - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.63768115942,8,1.10080180167
+8,"(('metformin - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.65059347181,9,1.1230917761
+9,"(('metformin - Steady', 'glyburide - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.630331753555,10,1.08811483562
+10,"(('gender - Male', 'metformin - Steady', 'age - [40-50)'), ('readmitted - NO',))",0.676229508197,11,1.16734617287
+11,"(('gender - Male', 'metformin - Steady', 'rosiglitazone - Steady'), ('readmitted - NO',))",0.620525059666,12,1.07118595801
+12,"(('gender - Male', 'glyburide - Steady', 'insulin - Steady'), ('readmitted - NO',))",0.655612244898,13,1.13175547014
+13,"(('insulin - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.629498226052,14,1.08667595262
+14,"(('insulin - Up', 'race - AfricanAmerican'), ('readmitted - NO',))",0.621462264151,15,1.07280381416
+15,"(('insulin - Steady', 'age - [40-50)', 'gender - Female'), ('readmitted - NO',))",0.605396290051,16,1.04506980795
+16,"(('metformin - Steady', 'insulin - Steady', 'gender - Female'), ('readmitted - NO',))",0.634377967711,17,1.09509964263
+17,"(('gender - Male', 'glyburide - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.60231316726,18,1.03974754451
+18,"(('metformin - Steady', 'age - [40-50)'), ('readmitted - NO',))",0.645058448459,19,1.11353690125
+19,"(('metformin - Steady', 'age - [50-60)', 'gender - Female'), ('readmitted - NO',))",0.620906801008,20,1.07184494182
+20,"(('gender - Male', 'insulin - Steady', 'age - [40-50)', 'race - Caucasian'), ('readmitted - NO',))",0.610294117647,21,1.05352471894
+21,"(('insulin - Steady', 'age - [40-50)'), ('readmitted - NO',))",0.620578778135,22,1.07127868991
+22,"(('gender - Male', 'insulin - Steady', 'glipizide - Steady'), ('readmitted - NO',))",0.603669724771,23,1.04208931191
+23,"(('gender - Male', 'metformin - Steady', 'glipizide - Steady'), ('readmitted - NO',))",0.63986013986,24,1.10456328271
+24,"(('metformin - Steady', 'age - [40-50)', 'gender - Female'), ('readmitted - NO',))",0.611479028698,25,1.05557018038
+25,"(('metformin - Steady', 'insulin - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.617793594306,26,1.0664707458
+26,"(('gender - Male', 'metformin - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.684501845018,27,1.18162635529
+27,"(('metformin - Steady', 'age - [60-70)', 'gender - Female'), ('readmitted - NO',))",0.624145785877,28,1.07743626332
+28,"(('insulin - Steady', 'age - [50-60)', 'gender - Female'), ('readmitted - NO',))",0.602955665025,29,1.04085666101
+29,"(('metformin - Steady', 'age - [60-70)', 'gender - Female', 'race - Caucasian'), ('readmitted - NO',))",0.610305958132,30,1.05354515867
+30,"(('gender - Male', 'metformin - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.678709677419,31,1.17162758327
+31,"(('insulin - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.610498456109,32,1.05387745972
+32,"(('metformin - Steady', 'age - [60-70)', 'insulin - Steady'), ('readmitted - NO',))",0.651340996169,33,1.12438219554
+33,"(('age - [60-70)', 'pioglitazone - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.605263157895,34,1.04483998759
+34,"(('metformin - Steady', 'glyburide - Steady', 'gender - Female'), ('readmitted - NO',))",0.627516778523,35,1.08325546422
+35,"(('insulin - Steady', 'age - [50-60)', 'race - AfricanAmerican'), ('readmitted - NO',))",0.644400785855,36,1.11240160633
+36,"(('metformin - Steady', 'age - [60-70)', 'race - Caucasian'), ('readmitted - NO',))",0.617283950617,37,1.06559096963
+37,"(('metformin - Steady', 'age - [60-70)'), ('readmitted - NO',))",0.632653061224,38,1.09212201009
+38,"(('metformin - Steady', 'age - [50-60)', 'race - Caucasian'), ('readmitted - NO',))",0.637037037037,39,1.09968988065
+39,"(('insulin - Up', 'gender - Female', 'race - AfricanAmerican'), ('readmitted - NO',))",0.613725490196,40,1.0594481511
+40,"(('metformin - Steady', 'insulin - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.691489361702,41,1.19368860746
+41,"(('age - [30-40)', 'insulin - Steady'), ('readmitted - NO',))",0.629294755877,42,1.08632471073
+42,"(('metformin - Steady', 'insulin - Steady', 'gender - Female', 'race - Caucasian'), ('readmitted - NO',))",0.605531295488,43,1.04530286208
+43,"(('gender - Male', 'metformin - Steady', 'glyburide - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.655405405405,44,1.13139841194
+44,"(('gender - Male', 'metformin - Steady', 'age - [50-60)', 'race - Caucasian'), ('readmitted - NO',))",0.66958041958,45,1.15586813464
+45,"(('metformin - Steady', 'age - [40-50)', 'race - Caucasian'), ('readmitted - NO',))",0.631762652705,46,1.09058493582
+46,"(('metformin - Steady', 'gender - Female', 'race - AfricanAmerican'), ('readmitted - NO',))",0.627791563275,47,1.08372981343
+47,"(('gender - Male', 'age - [60-70)', 'metformin - Steady'), ('readmitted - NO',))",0.641577060932,48,1.10752713037
+48,"(('glyburide - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.677419354839,49,1.16940015441
+49,"(('metformin - Steady', 'age - [50-60)', 'race - Caucasian', 'gender - Female'), ('readmitted - NO',))",0.600393700787,50,1.03643405136
+50,"(('gender - Male', 'glyburide - Steady'), ('readmitted - NO',))",0.619661016949,51,1.0696943979
+51,"(('metformin - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.60296265387,52,1.04086872556
+52,"(('age - [60-70)', 'glyburide - Steady'), ('readmitted - NO',))",0.605451936872,53,1.04516586869
+53,"(('gender - Male', 'metformin - Steady', 'glyburide - Steady'), ('readmitted - NO',))",0.661101836394,54,1.14123191792
+54,"(('glipizide - Steady', 'race - AfricanAmerican'), ('readmitted - NO',))",0.626591230552,55,1.08165773021
+55,"(('insulin - Steady', 'age - [50-60)', 'race - Caucasian'), ('readmitted - NO',))",0.606245239909,56,1.0465353139
+56,"(('gender - Male', 'insulin - Steady'), ('readmitted - NO',))",0.611663353214,57,1.05588837193
+57,"(('metformin - Steady', 'age - [30-40)'), ('readmitted - NO',))",0.727528089888,58,1.25590072763
+58,"(('gender - Male', 'metformin - Steady', 'insulin - Steady'), ('readmitted - NO',))",0.664670658683,59,1.1473926237
+59,"(('gender - Male', 'metformin - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.623807548735,60,1.07685237896
+60,"(('gender - Male', 'metformin - Steady'), ('readmitted - NO',))",0.64312267658,61,1.11019526077
+61,"(('metformin - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.649458253665,62,1.12113209741
+62,"(('glipizide - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.602684563758,63,1.04038867045
+63,"(('metformin - Steady', 'age - [60-70)', 'insulin - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.63476070529,64,1.0957603462
+64,"(('gender - Male', 'glimepiride - Steady'), ('readmitted - NO',))",0.602184087363,65,1.03952471939
+65,"(('gender - Male', 'insulin - Steady', 'age - [50-60)', 'race - Caucasian'), ('readmitted - NO',))",0.636500754148,66,1.09876411836
+66,"(('metformin - Steady', 'insulin - Steady', 'age - [50-60)'), ('readmitted - NO',))",0.683991683992,67,1.18074568605
+67,"(('age - [60-70)', 'pioglitazone - Steady'), ('readmitted - NO',))",0.609797297297,68,1.05266707915
+68,"(('gender - Male', 'metformin - Steady', 'insulin - Steady', 'race - Caucasian'), ('readmitted - NO',))",0.629526462396,69,1.08672469582
+69,"(('gender - Male', 'insulin - Steady', 'age - [40-50)'), ('readmitted - NO',))",0.634408602151,70,1.09515252556
